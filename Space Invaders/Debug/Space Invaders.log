@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\thegr\source\repos\ucla eng bridge\space invaders\space invaders\game.cpp(271): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Space Invaders.vcxproj -> C:\Users\thegr\source\repos\UCLA Eng Bridge\Space Invaders\Debug\Space Invaders.exe
